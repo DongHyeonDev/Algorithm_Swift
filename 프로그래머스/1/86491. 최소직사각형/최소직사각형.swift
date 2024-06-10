@@ -10,4 +10,5 @@ func solution(_ sizes:[[Int]]) -> Int {
     }
     
     return maxOfMaxNum * maxOfMinNum
+    
 }
